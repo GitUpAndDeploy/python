@@ -1,0 +1,6 @@
+NameError: Python raises a NameError if you attempt to use an identifier that hasn't been defined or might be out of scope.
+IndentationError: The IndentationError occurs in Python when there's an indentation issue in your code. 
+NameError: Data type mismatch, converting letters to int.
+TypeError: A TypeError exception in Python indicates that you are performing an operation that is not supported or appropriate for the object data type. eg: trying to concatenate int to a string or vice versa.
+ValueError: The ValueError exception indicates that a function received an argument of the correct data type; however, the value itself is invalid. eg: Passing abc to int.
+Index error: Python throws an Index error when we access an out-of-range index of a string, list, or tuple.
